@@ -1,0 +1,55 @@
+Week-1 Introduction to Database System
+
+Data VS Information
+
+Data:
+•	Definition: Raw and unprocessed facts or figures that lack context or meaning.
+•	Nature: Can be in the form of text, numbers, dates, symbols, etc.
+•	Characteristics: Unorganized, random, and incoherent until processed.
+•	Role: Acts as the basic building blocks for information.
+
+Information:
+•	Definition: The result of processing and organizing data to give it context, meaning, and relevance.
+•	Nature: Output that answers questions like "Who," "What," "Where," and "When."
+•	Characteristics: Meaningful, organized, and useful for decision-making.
+•	Role: Forms the basis of knowledge, crucial for informed decision-making.
+
+Data Redundancy:
+Data redundancy happens when the same information is stored in multiple places. It can lead to increased storage needs, inconsistencies, and complexity. Strategies to reduce redundancy include normalization, using unique identifiers, integrating data sources, and ensuring regular maintenance.
+
+Data Repetition:
+Data repetition occurs when the same piece of information is repeated or duplicated within a dataset or system. This repetition can lead to inefficiencies, increased storage requirements, and challenges in maintaining consistency. Minimizing data repetition is essential for optimizing storage space and ensuring that updates are applied consistently across the dataset.
+
+Data Anomalies:
+Data Anomalies are problem sin datasets that can happen when adding, updating or deleting information.
+
+For example,
+--> You might have trouble adding new data without including unnecessary detail, updating one part of the data could cause inconsistencies, or deleting something might unintentionally remove important information.
+
+Handling these Anomalies carefully ensures data remains accurate and reliable.
+
+There are 3 main types of data anomalies that can occur in a database:
+1. Modification Anomalies
+2. Insertion Anomalies
+3. Deletion Anomalies
+
+1. Modification (update) Anomalies:
+This anomalies arise when updating data in one part of the database cause inconsistencies or errors in other parts.
+
+For example,
+--> If updating a students's address in one record doesn't automatically update it in another related record.
+
+2. Insertion Anomalies:
+This usually occurs when you can't add new data to thr database without including unnecessary information.
+
+For example,
+--> If you can't add new course without assigning it to a student.
+
+3. Deletion Anomalies:
+It occurs when deleting certain data unintentionally, removes other necessary.
+
+For example,
+--> Deleting a course record may unintentionally removes information about a student enrolled in that course.
+
+
+Handling these anomalies carefully is important for maintaining accurate and reliable data in a database.
