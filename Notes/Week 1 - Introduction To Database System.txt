@@ -94,3 +94,14 @@ Benefits Of Database Implementations:
 
 
 Database Management Systems
+
+A database management system is a collection of programs that manages a database structure and controls access to the database (and ultimately the data).  The database is just one of those programs in the collection.
+
+For Now I will be using Oracle DBMS which comprised of Oracle12c (Data Server) and SQL Developer (User Interface and Access tool).
+
+The database management system typically has many components that:
+
+•	manages the sharing of data amongst multiple applications and/or users
+•	ensures data consistency
+•	add the ability to do ad hoc querying
+•	are extensions to the manufactured components to add addition and customized access and usage .
