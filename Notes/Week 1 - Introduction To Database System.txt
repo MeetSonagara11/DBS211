@@ -105,3 +105,36 @@ The database management system typically has many components that:
 •	ensures data consistency
 •	add the ability to do ad hoc querying
 •	are extensions to the manufactured components to add addition and customized access and usage .
+
+
+Database Design:
+
+Database design involves creating a blueprint that outlines how data will be organized, structured, and stored in a database system. It is a crucial step in ensuring that the database can efficiently and effectively meet the needs of an organization.
+
+database design should be:
+
+1. Define Usage expectations:
+    clearly outline how the database is expected to be used.
+
+2. Avoid Redundancy:
+    Helps to prevent the storage of redundance and repetitive data.
+
+3. Integrate database with SDLC & DBLC:
+    Align with both the software Development Life Cycle (SDLC) & the Database Design Life Cycle (DBLC).
+
+5 Basic Rules of Good Database Design:
+
+1. Unique Identifiers:
+Every table or entity should have a unique identifier to pinpoint specific rows.
+
+2. Avoid Redundant Data Storage:
+Minimize duplication of data to enhance efficiency.
+
+3. Avoid Repetitive Data Storage:
+Steer clear of unnecessary repetition in data storage.
+
+4. No Calculated Fields:
+Exclude calculated fields or values directly derived from other fields.
+
+5. Atomic Values:
+Ensure that every cell in the database holds a single, indivisible value.
