@@ -1,5 +1,6 @@
 Week-1 Introduction to Database System
 
+
 Data VS Information
 
 Data:
@@ -14,11 +15,14 @@ Information:
 •	Characteristics: Meaningful, organized, and useful for decision-making.
 •	Role: Forms the basis of knowledge, crucial for informed decision-making.
 
+
 Data Redundancy:
 Data redundancy happens when the same information is stored in multiple places. It can lead to increased storage needs, inconsistencies, and complexity. Strategies to reduce redundancy include normalization, using unique identifiers, integrating data sources, and ensuring regular maintenance.
 
+
 Data Repetition:
 Data repetition occurs when the same piece of information is repeated or duplicated within a dataset or system. This repetition can lead to inefficiencies, increased storage requirements, and challenges in maintaining consistency. Minimizing data repetition is essential for optimizing storage space and ensuring that updates are applied consistently across the dataset.
+
 
 Data Anomalies:
 Data Anomalies are problem sin datasets that can happen when adding, updating or deleting information.
@@ -54,6 +58,7 @@ For example,
 
 Handling these anomalies carefully is important for maintaining accurate and reliable data in a database.
 
+
 Databases:
 A database is like a well-organized storage space for information.
 Imagine it as a central hub where all your important data is kept in an orderly way. When you update something in this hub, it automatically updates everywhere else it's used. This helps prevent messy mistakes and makes information easy to find. Additionally, this also allows different parts of business to use and update the same information at the same time.
@@ -85,4 +90,7 @@ Benefits Of Database Implementations:
 --> Ensures that only authorized users have access to sensitive Information.
 
 9. Software Independence:
---> Allows restructuring of the database without necessitating updates to the software
+--> Allows restructuring of the database without necessitating updates to the software.
+
+
+Database Management Systems
