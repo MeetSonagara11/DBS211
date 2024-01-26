@@ -1,0 +1,12 @@
+Week 2 - Relational Database Design
+
+
+Relational Models
+    Data Modeling is just a simple method of describing data or information
+
+Let's break down few key points
+
+1. Formats ans structure of data storage:
+    This involves designing how data will be organized and stored.
+
+2. 
