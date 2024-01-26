@@ -157,3 +157,27 @@ Databases Development Life Cycle
 
 5. Maintenance and Support (SDLC):
     Develop plans for ongoing maintenance, monitor performance, and provide support.
+
+
+Database Development Life Cycle
+
+1. Requirements Analysis:
+    Identify The needs for database.
+
+2. Logical Design
+    Develop Design specifications
+        •	Data Modeling 
+        •	Entity Relational Diagram
+        •	Data types
+        •	normalization
+
+
+3. Physical design
+    Translate the logical design into the actual database structure.
+
+
+4. Implementation:
+    Add data to database, set it on live servers, create backups, make sure it runs properly and smoothly every time.
+
+
+5. Monitoring, Modifying and maintaining
