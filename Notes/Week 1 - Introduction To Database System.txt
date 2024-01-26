@@ -138,3 +138,22 @@ Exclude calculated fields or values directly derived from other fields.
 
 5. Atomic Values:
 Ensure that every cell in the database holds a single, indivisible value.
+
+
+Databases Development Life Cycle
+--> SDLC - Software Development Life cycle
+
+1. Planning:
+    Determine the need for software, identify project goals and establish project champions.
+
+2. Analysis (SDLC):
+    Evaluate the feasibility of software development, assess team capabilities, and determine financial viability.
+
+3. Design (SDLC):
+    Develop specifications, architecture, and design elements for the software.
+
+4. Implementation (SDLC):
+    Code the software, test it, and deliver the final product.
+
+5. Maintenance and Support (SDLC):
+    Develop plans for ongoing maintenance, monitor performance, and provide support.
