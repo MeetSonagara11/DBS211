@@ -9,4 +9,11 @@ Let's break down few key points
 1. Formats ans structure of data storage:
     This involves designing how data will be organized and stored.
 
-2. 
+2. Operations on Data:
+    Data models also defines operations like selecting data from queries, updating it or deleting the data.
+
+3. Constraints & Rules:
+    Constraints & rules are very important in data integrity which helps to prevent data from inconsistencies and errors.
+
+Relational Data Model:
+    By defining relationship between various data points and separates data to removes inefficiencies.
