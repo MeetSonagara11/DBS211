@@ -17,3 +17,32 @@ Let's break down few key points
 
 Relational Data Model:
     By defining relationship between various data points and separates data to removes inefficiencies.
+
+In Relational model data is represented by a series of two dimensional table which are also called relations.
+Every table have columns and rows where columns represents attributes or properties of the entity and rows are called tuples, each row corresponds to a single instant or record of the entity representing columns.
+
+
+Keys:
+    Keys are one of the most important functions of database for processing querying and manipulating data.
+    Keys is a way to uniquely identify each and every row or in table.
+
+Let's Summarize different types of keys use in database
+
+1. Candidate Key:
+    A candidate key is like a special tag use or a combination of combination of tag each row in a table. It's what make each row unique, So we can easily sort out data from table.
+
+2. Primary Key:
+    A primary key is like the special tag we pick from all the possible tags for each things in a tables.
+    It's the most important tag because it what makes sure we can find one things easily and know its unique. Every table can only have one primary key.
+
+3. Composite Key:
+    A Composite key is like having  special tag which have more than one detail.
+    The uniqueness comes from the unique combination of values. It's like having a unique combination code made by combination different pieces of information.
+
+4. surrogate Key: 
+     A surrogate key is an artificial field added to serve as the primary key.
+     It is used when a composite key is complex or there is no appropriate natural key available.
+
+5. Foreign Key:
+    A foreign Key is a Constraints applied to a table defining the relationship between teo tables.
+    Foreign key in one table is usually linked to the primary key in another table.
