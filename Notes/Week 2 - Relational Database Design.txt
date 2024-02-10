@@ -44,5 +44,5 @@ Let's Summarize different types of keys use in database
      It is used when a composite key is complex or there is no appropriate natural key available.
 
 5. Foreign Key:
-    A foreign Key is a Constraints applied to a table defining the relationship between teo tables.
+    A foreign Key is a Constraints applied to a table defining the relationship between two tables.
     Foreign key in one table is usually linked to the primary key in another table.
